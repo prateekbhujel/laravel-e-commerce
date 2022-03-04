@@ -40,7 +40,7 @@
     <!-- Footer Text -->
   
     <!-- Copyright -->
-    <div class="footer-copyright text-center py-3">© 2020 Copyright:
+    <div class="footer-copyright text-center py-3">© 2022 Copyright:
       <a href="https://instagram.com/prateekbhujel"  target="_blank"> Pratik Bhujel</a>
     </div>
     <!-- Copyright -->
